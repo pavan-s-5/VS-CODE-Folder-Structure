@@ -1,3 +1,7 @@
+body{
+    background-color: gray;
+}
+
 .folder-container{
     display: flex;
     justify-content: space-between;
