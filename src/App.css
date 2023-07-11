@@ -1,0 +1,22 @@
+.folder-container{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    background-color: cyan;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.inside{
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+    gap: 10px;
+}
+
+.inside span{
+    width: 300px;
+    padding: 5px;
+background-color: rgb(246, 238, 195);
+border-radius: 5px;
+}
